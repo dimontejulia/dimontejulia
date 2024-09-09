@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-As a web developer and graduate of Queen's University with a Bachelor of Computing, I look for opportunities to compliment my passion for innovation and technology. I have experience working on various stages of the software development lifecycle as a quality assurance engineer and in product support. I am excited at the opportunity to gain more experience developing as a web developer. My interests range from software applications, social media, fashion, design, music, and sports.
+Team Lead with a diverse background in QA, product support, and development, now embracing a leadership role with a people-first mindset! Just relocated to the UK 🇬🇧 and eager to merge my front-end tech skills with a passion for collaboration. I’m all about empowering teams, sparking creativity, and delivering innovative solutions. 
 
 Find me on [LinkedIn](https://www.linkedin.com/in/juliadimonte/)
